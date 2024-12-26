@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgba(127, 255, 212, 0.19);
+    width: 1000px;
+    margin: auto;
+}
+
+div
+{
+    width: 200px;
+    height: 150px;
+}
+
+.first
+{
+    background-color: rgb(100, 75, 124);
+}
+
+.second
+{
+   background-color: rgb(75, 164, 93);
+}
+
+.third
+{
+   background-color: rgb(158, 75, 101);
+} 
